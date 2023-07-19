@@ -12,11 +12,6 @@ API dos cavaleiros do zodiaco em construção...
   <br />
 </div>
 
-
-
-# CSS do card
-https://uiverse.io/gharsh11032000/tasty-frog-49
-
 # Colaboradores
 
 [![Author](https://img.shields.io/badge/Dev-Barbara%20Nery-blueviolet%20)](https://www.linkedin.com/in/barbarafnery/)
