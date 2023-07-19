@@ -3,7 +3,6 @@
 API dos cavaleiros do zodiaco em construção...
 [Repositório da API](https://github.com/nadiduno/apireset)
 
-# Arquivo JSON
 <div>
   <img 
     alt=''
