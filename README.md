@@ -6,21 +6,13 @@ API dos cavaleiros do zodiaco em construção...
 # Arquivo JSON
 <div>
   <img 
-    alt='Imagem do arquivo JSon, é um array de array, com dados dos cavaleiros do zodiaco, id": "1",    "name": "Mu", "constellation": "Áries", "classification": "Ouro" e "description"'
+    alt=''
     src="https://github.com/nadiduno/knightsofthezodiac/blob/main/.github/ImgApp.png" 
     width="30%"
   >
   <br />
 </div>
 
-<div>
-  <img 
-    alt='Captura do terminal, com o comando json-server --watch db.json em letras brancas e fundo preto'
-    src="https://github.com/nadiduno/knightsofthezodiac/blob/main/.github/ImgApp2.png" 
-    width="30%"
-  >
-  <br />
-</div>
 
 
 # CSS do card
