@@ -1,0 +1,15 @@
+.texto {
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-size: 30px;
+}
+
+.imagen1 {
+    width: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
