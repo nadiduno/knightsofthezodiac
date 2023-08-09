@@ -20,7 +20,7 @@
 
 https://api.jsonbin.io/v3/b/64ba1bd4b89b1e2299c1dbc0
 
-# Códifo de JavaScript
+# Código - JavaScript
 
  ```JS
  async function userData() {
@@ -69,4 +69,6 @@ Cria tua propria API - Ver este [post](https://devrelnadiduno.blogspot.com/2023/
 [Criando uma API pública dos Cavaleiros do Zodíaco](https://devrelnadiduno.blogspot.com/2023/08/criando-uma-api-publica-dos-cavaleiros.html)
 
 <br />
-Com <💜 /> [Nadi Duno](https://www.linkedin.com/in/nadiduno/) © 2023
+Com <💜 /> 
+
+[Nadi Duno](https://www.linkedin.com/in/nadiduno/)  © 2023
