@@ -4,9 +4,16 @@
 <br />
 <br />
 
-#App Cavaleiros do zodíaco
+# App Cavaleiros do zodíaco
 
-[![Ver video](https://github.com/nadiduno/knightsofthezodiac/blob/main/.github/ImgApp.gif)]
+<div>
+  <img 
+    alt="Portfólio de Nadi Duno"
+    src="https://github.com/nadiduno/knightsofthezodiac/blob/main/.github/ImgApp.png" 
+    width="70%"
+  >
+  <br />
+</div>
 
 
 # Link Cavaleiros do zodíaco
