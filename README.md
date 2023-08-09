@@ -10,7 +10,7 @@
   <img 
     alt="Portfólio de Nadi Duno"
     src="https://github.com/nadiduno/knightsofthezodiac/blob/main/.github/ImgApp.png" 
-    width="70%"
+    width="40%"
   >
   <br />
 </div>
